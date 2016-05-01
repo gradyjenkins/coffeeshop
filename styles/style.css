@@ -1,0 +1,22 @@
+#container
+{
+	margin: auto;
+}
+#container #login 
+{
+	margin: auto;
+	padding: 10px;
+}
+ul#menu li 
+{
+    display: inline;
+    padding: 10px;
+}
+div#account-info li
+{
+	list-style: none;
+}
+div#account-info
+{
+	border-style: double;
+}
